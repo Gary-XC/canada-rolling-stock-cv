@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 
+# Vscode Extensions (spell Checker)
+.vscode
